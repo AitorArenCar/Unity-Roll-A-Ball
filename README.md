@@ -32,8 +32,8 @@ Para configurar el entorno de desarrollo, sigue estos pasos:
 1. **Clona el repositorio**:
 
    ```bash
-   git clone https://github.com/tuusuario/roll-a-ball.git
-   cd roll-a-ball
+   git clone https://github.com/AitorArenCar/Unity-Roll-A-Ball.git
+   cd Unity-Roll-A-Ball
    ```
 
 2. **Abre el proyecto en Unity Hub**:
@@ -44,32 +44,8 @@ Para configurar el entorno de desarrollo, sigue estos pasos:
    - Haz clic en "Play" para probar el juego.
 
 **Ejemplo de configuración:**
-   1. Al abrir el proyecto en Unity, se cargará la escena principal donde podrás ver el área de juego y la bola lista para moverse.
+   1. Al abrir el proyecto en Unity, se cargará la escena principal donde podrás ver un menú sencillo.
    2. Pulsa el botón de **Play** en Unity para iniciar la demo.
-
----
-
-### Ejecutando las pruebas ⚙️
-
-Para ejecutar las pruebas de funcionalidad del proyecto:
-
-1. En Unity, abre el menú "Window" y selecciona "Test Runner".
-2. Ejecuta las pruebas unitarias para verificar que el movimiento y las colisiones funcionan correctamente.
-
----
-
-#### Analice las pruebas end-to-end 🔩
-Estas pruebas verifican que la bola se mueve según el input del usuario y que el salto reacciona a la barra espaciadora. También validan que el juego detecte correctamente cuando se recolectan objetos.
-
-**Ejemplo:**
-   - Al presionar **WASD**, verifica que la bola se mueva en la dirección correcta.
-   - Al presionar **espacio**, la bola debe realizar un salto controlado.
-
-#### Pruebas de estilo de codificación ⌨️
-Estas pruebas revisan que el código siga las normas de estilo C# en Unity y que no existan errores comunes.
-
-**Ejemplo:**
-   - Ejecutar herramientas como **EditorConfig** para verificar la consistencia de los espacios y nombres de variables.
 
 ---
 
@@ -95,33 +71,6 @@ Para contribuir, por favor lee el archivo `CONTRIBUTING.md` para conocer nuestro
 
 ---
 
-### Wiki 📖
-Puedes encontrar mucha más información sobre cómo usar y personalizar este proyecto en nuestra [Wiki](https://github.com/tuusuario/roll-a-ball/wiki).
-
----
-
-### Versionado 📌
-Utilizamos **SemVer** para el versionado. Para todas las versiones disponibles, revisa los [tags en este repositorio](https://github.com/tuusuario/roll-a-ball/tags).
-
----
-
 ### Autores ✒️
 
-* **Andrés Villanueva** - Trabajo Inicial - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - Documentación - [fulanitodetal](https://github.com/fulanitodetal)
-
-También puedes revisar la lista de [contribuyentes](https://github.com/tuusuario/roll-a-ball/contributors) que han participado en este proyecto.
-
----
-
-### Licencia 📄
-Este proyecto está bajo la Licencia MIT - consulta el archivo `LICENSE.md` para más detalles.
-
----
-
-### Expresiones de Gratitud 🎁
-
-* Menciona este proyecto a otros 📢
-* Invita una bebida 🍺 a alguien del equipo
-* Da las gracias públicamente 🤓
-* Dona con cripto: **0xf253fc233333078436d111175e5a76a649890000**
+* **Aitor Arencibia Caraballo** -  [AitorArenCar](https://github.com/AitorArenCar)
